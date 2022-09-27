@@ -1,0 +1,58 @@
+.feed {
+    margin: 0 60px;
+    border-radius: 8px;
+    overflow-y: scroll;
+    height: 750px;
+}
+
+.login-button {
+    position: relative;
+    left: 825px;
+    bottom: 57px;
+    background-color: rgb(94, 192, 221);
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    padding: 5px 10px;
+    border-radius: 8px;
+}
+
+h2 {
+    padding: 10px 60px 10px;
+    border-bottom: 1px #024 solid;
+}
+
+.submitter {
+    margin: 0 60px;
+    padding: 0 0 20px;
+}
+
+.input-text {
+    width: 724px;
+    height: 30px;
+    border-radius: 8px;
+    padding: 2px 8px;
+    border: 1.5px rgb(94, 192, 221) solid;
+    font-weight: 600;
+    color: rgb(109, 109, 109);
+}
+
+.add-button {
+    position: relative;
+    top: 7px;
+    margin: 0 10px 10px;
+    height: 36px;
+    width: 68px;
+    color: #fff;
+    
+}
+
+.send-img {
+    position: relative;
+}
+
+.admin-panel {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
